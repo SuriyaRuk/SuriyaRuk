@@ -11,5 +11,5 @@
 - 2
 
 **Etc**
-- 1 [Introduction](https://gist.github.com/SuriyaRuk/a9697416a1c01b30f9d350987582bdda)
+- [Introduction](https://gist.github.com/SuriyaRuk/a9697416a1c01b30f9d350987582bdda)
 - 2
