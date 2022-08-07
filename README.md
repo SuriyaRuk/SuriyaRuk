@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**SuriyaRuk/SuriyaRuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Suriya Siangsai** is a ✨ special System and Software Engineer ✨ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on System Engineer at DomeCloud Inc.
+- 💬 Ask me about everthing by send message to me via https://web.facebook.com/lovery.yous.
+
+**Computer**
+- 1
+- 2
+
+**Etc**
+- 1
+- 2
