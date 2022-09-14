@@ -7,6 +7,7 @@
 - 💬 Ask me about everthing by send message to me via https://web.facebook.com/lovery.yous.
 
 **Computer**
+- [speaker on TestersDay2020_09.09.2022](https://testersday.github.io/2022)
 - [node-eth](https://github.com/SuriyaRuk/node-eth)
 - [algorithm-datastructure](https://gist.github.com/SuriyaRuk/21d281015b977a741b1ebc1059b15f3a)
 
