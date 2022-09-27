@@ -13,4 +13,4 @@
 
 **Etc**
 - [Introduction](https://gist.github.com/SuriyaRuk/a9697416a1c01b30f9d350987582bdda)
-- 2
+- [แนวทางการทำงาน](https://github.com/SuriyaRuk/Blogs/blob/main/%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99.md)
