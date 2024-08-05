@@ -2,7 +2,7 @@
 ![Alt suriya](https://github.com/SuriyaRuk/Blogs/blob/6a8a9b196890c1a9fed2c37d287eb046dc930f96/226930605_2040652202741582_2354587063694112743_n.jpg)
 
 ### Website
-(https://sites.google.com/view/suriyaruk)
+[https://sites.google.com/view/suriyaruk](https://sites.google.com/view/suriyaruk)
 
 ### Welcome to SuriyaRuk's GitHub profile!
 
